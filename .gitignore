@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Chroma DB folder
+chroma_db/
+
+# API KEY
+.env
+
+# Virtual Enviorment
+venv
+
+# Database For Visualization
+IDMS_ERP.db
+

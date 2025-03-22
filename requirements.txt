@@ -9,3 +9,4 @@ chromadb
 huggingface-hub
 faiss-cpu
 pypdf2
+plotly
