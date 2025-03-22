@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-mistralai
+langchain-community
+mysql-connector-python
+python-dotenv
+sentence-transformers
+chromadb
+huggingface-hub
+faiss-cpu
+pypdf2
