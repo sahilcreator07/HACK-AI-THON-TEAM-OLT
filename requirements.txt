@@ -1,11 +1,6 @@
-streamlit
-langchain
-langchain-mistralai
-langchain-community
-mysql-connector-python
-python-dotenv
+pandas
+scikit-learn
+transformers
+datasets
+torch
 sentence-transformers
-chromadb
-huggingface-hub
-faiss-cpu
-pypdf2

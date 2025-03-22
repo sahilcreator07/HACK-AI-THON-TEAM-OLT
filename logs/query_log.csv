@@ -1,0 +1,14 @@
+timestamp,query,predicted_intent,confidence,resolved,user_feedback
+2025-03-22T15:54:53.213801,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-22T15:54:53.305727,How do I generate an invoice?,generate_invoice,0.8796886205673218,True,Yes
+2025-03-22T15:58:18.610453,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:58:18.722988,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:58:50.059343,How are HSN-wise summary reports generated in IDMS?,hsn_summary_report,0.7233239412307739,True,Yes
+2025-03-22T15:59:03.208551,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:59:03.341913,& C:/Users/manas/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/manas/OneDrive/Desktop/Websocket/intent_classifier/retrain/generate_weekly_dataset.py,get_batch_creator,0.3546209931373596,True,Yes
+2025-03-22T15:59:11.982769,Can IDMS generate GST returns automatically?,generate_gst_return,0.6592420339584351,True,Yes
+2025-03-22T15:59:32.870175,How do I create a GRN?,create_grn,0.7828658819198608,True,Yes
+2025-03-22T15:59:32.960686,How do I create a GRN?,create_grn,0.7828658819198608,True,Yes
+2025-03-22T15:59:50.775676,Where can I check PO status?,check_pending_po,0.630132794380188,True,Yes
+2025-03-22T15:59:50.862926,Where can I check PO status?,check_pending_po,0.630132794380188,True,Yes
+2025-03-22T15:59:58.783880,How does IDMS generate audit reports for GST compliance?,get_gst_info,0.504426121711731,True,Yes
